@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepository", "GenericRepository\GenericRepository.csproj", "{C5AA14AA-A561-41A8-9180-6E67AD54A0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepository.Tests", "GenericRepository.Tests\GenericRepository.Tests.csproj", "{4EE73534-6A0D-4F46-9947-DDD08F689402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AA14AA-A561-41A8-9180-6E67AD54A0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AA14AA-A561-41A8-9180-6E67AD54A0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AA14AA-A561-41A8-9180-6E67AD54A0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AA14AA-A561-41A8-9180-6E67AD54A0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4FFE3D-91BF-4756-B87E-93A2094B2C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4FFE3D-91BF-4756-B87E-93A2094B2C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4FFE3D-91BF-4756-B87E-93A2094B2C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4FFE3D-91BF-4756-B87E-93A2094B2C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE73534-6A0D-4F46-9947-DDD08F689402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE73534-6A0D-4F46-9947-DDD08F689402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE73534-6A0D-4F46-9947-DDD08F689402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE73534-6A0D-4F46-9947-DDD08F689402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
